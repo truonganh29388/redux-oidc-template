@@ -1,0 +1,10 @@
+{
+  "name": "cra-template-truonganh-redux-oidc-template",
+  "version": "1.0.9",
+  "description": "This is a template of Redux-oidc created by TruongAnh",
+  "main": "index.js",
+  "keywords": ["redux-oidc", "oidc-client", "react oidc"],
+  "author": "truonganh",
+  "license": "ISC",
+  "repository": "https://github.com/truonganh29388/redux-oidc-template"
+}
